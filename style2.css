@@ -1,0 +1,47 @@
+/*FOLHA DE ESTILOS PRO GRAFICO(resultado.php)*/
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+    font-family: 'Work Sans', sans-serif;
+}
+body {
+    background: #ADD8E6;
+}
+#caixa_geral {
+    margin-top: 60px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: #F0F8FF;
+    border-radius: 0.1rem;
+    padding: 10%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#piechart_3d {
+    width: 90%;
+    height: 80%;
+}
+.footer {
+    text-align: center;
+    padding-top: 30px;
+}
+#botao {
+    text-align: center;
+    border: 1px rgb(153, 144, 144) solid;
+}
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    cursor: pointer;
+    background-color: #ADD8E6;
+}
+button:hover {
+    text-decoration: none;
+    background-color: #0984e3;
+}
