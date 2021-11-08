@@ -1,0 +1,2 @@
+# web_simple_voting
+Projeto da Faculdade - 2º Semestre - Desenvolvimento Web em HTML5, CSS, JavaScript e PHP - Profº: Daniel  O projeto consiste em um sistema de votação simples de 3 elementos, a qual o usuário informa o elemento a ser votado e o seu CPF. Os dados são armazenados em uma base de dados MySQL e é gerado um pequeno gráfico a partir disso. Os elementos nesse caso são 3 modelos de Smartphones. 
